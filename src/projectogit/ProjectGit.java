@@ -9,7 +9,7 @@ package projectogit;
  *
  * @author Lenovo
  */
-public class ProjectoGit {
+public class ProjectGit {
 
     /**
      * @param args the command line arguments
